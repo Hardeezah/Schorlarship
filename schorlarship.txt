@@ -343,3 +343,31 @@ English Language (IELTS/TOEFL): REQUIRED for English-taught programs.
 --- APPLICATION PROCESS ---
 Is there a separate application letter for the scholarship? 
 YES. The MEXT scholarship is a massive, separate application process either through the Japanese Embassy in Nigeria or via a direct University Recommendation from a Kyoto University professor.
+
+
+==================================================
+
+13. University: Stanford University
+Country: United States (USA)
+Scholarship: Fully Funded (Covers full tuition, health insurance, and provides a living stipend through fellowships, research assistantships, or teaching assistantships).
+Application Opens: September 2026
+Application Deadline: Early December 2026 (typically for Fall intake).
+Outcome Notification: February to March 2027
+
+--- PROGRAM DETAILS (DIRECT ENTRY) ---
+You CAN apply directly from a Bachelor's degree. A Master's degree is not required. Admissions evaluate applicants based on research potential and academic background. Your 4.53/5.00 First-Class Honours meets the academic bar, but you must heavily emphasize your research experience, publications (if any), and global competition wins (Huawei, MATLAB) to stand out.
+
+--- EXAMS REQUIRED ---
+GRE: NOT required.
+English Language (IELTS/TOEFL): REQUIRED (unless you meet specific exemption criteria based on your previous degree taught in English).
+
+--- DOCUMENTS NEEDED ---
+1. Statement of Purpose (SOP)
+2. Curriculum Vitae (CV)
+3. Academic Transcripts
+4. Three (3) Letters of Recommendation (Standard for US universities)
+5. Proof of English Proficiency (IELTS/TOEFL)
+
+--- APPLICATION PROCESS ---
+Is there a separate application letter for the scholarship? 
+NO. The Stanford Computer Science PhD program is fully funded by default. By applying for and being admitted to the PhD program, you automatically receive the funding package. No separate scholarship application is needed.
