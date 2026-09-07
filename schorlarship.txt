@@ -371,3 +371,27 @@ English Language (IELTS/TOEFL): REQUIRED (unless you meet specific exemption cri
 --- APPLICATION PROCESS ---
 Is there a separate application letter for the scholarship? 
 NO. The Stanford Computer Science PhD program is fully funded by default. By applying for and being admitted to the PhD program, you automatically receive the funding package. No separate scholarship application is needed.
+
+14. University: Massachusetts Institute of Technology (MIT)
+Country: United States (USA)
+Scholarship: Fully Funded (Covers full tuition, health insurance, and provides a living stipend via RA/TA/Fellowships).
+Application Opens: September 2026
+Application Deadline: December 15, 2026
+Outcome Notification: February to March 2027
+
+--- PROGRAM DETAILS (DIRECT ENTRY) ---
+You CAN apply directly from a Bachelor's degree. A Master's degree is not required. MIT EECS actively recruits direct-entry students. Your 4.53/5.00 First Class makes you competitive, especially if paired with your Huawei ICT global win and Edge AI deployment experience.
+
+--- EXAMS REQUIRED ---
+GRE: NOT required. MIT EECS does not use GRE scores.
+English Language (IELTS/TOEFL): REQUIRED (unless your previous degree language of instruction was English).
+
+--- DOCUMENTS NEEDED ---
+1. Statement of Objectives (SOP)
+2. Curriculum Vitae (CV)
+3. Academic Transcripts
+4. Three (3) Letters of Recommendation
+5. Proof of English Proficiency (IELTS/TOEFL)
+
+--- APPLICATION PROCESS ---
+NO. MIT EECS PhD is fully funded by default. By applying for and being admitted to the PhD program, you automatically receive the funding package. No separate scholarship application is needed.
