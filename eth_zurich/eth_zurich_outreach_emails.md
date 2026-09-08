@@ -17,5 +17,29 @@ Given my practical experience deploying offline models and my strong background 
 
 Are you accepting new students for the upcoming cycle, and would investigating systems for ML in extreme resource-constrained environments align with your current research focus?
 
-Thank you for your time,
+---
+
+## 2. Email to Prof. Torsten Hoefler (SPCL)
+**Focus:** High-Performance Computing, Efficient Deep Learning Compilation, Memory Co-design
+
+**To:** spcl-hiring@spcl.inf.ethz.ch
+**Subject:** [JOB@SPCL] Direct Doctorate Applicant (2027) - Efficient ML on Resource-Constrained ARM Architectures
+
+Dear Prof. Hoefler and the SPCL Hiring Committee,
+
+I am writing to apply for a Ph.D. position within the Scalable Parallel Computing Laboratory (SPCL) via the Direct Doctorate in Computer Science program for Autumn 2027.
+
+I graduated with First Class Honours in Computer Science from Ahmadu Bello University (CGPA 4.53/5.00). In my applied engineering work, I architected CropDiseaseDetector, an autonomous edge AI device deployed on an Orange Pi AIpro (Huawei Ascend 310B NPU). By implementing INT8 quantization, zero-copy buffer sharing within the CANN toolchain, and memory-pipelined multi-task scheduling, we eliminated thermal throttling and sustained real-time offline inference under sub-watt constraints. This project won 1st Place Globally at the Huawei ICT Innovation Competition Finals (2025). The source code is available on my GitHub (github.com/Hardeezah/cdd_electron).
+
+This experience showed me that memory bandwidth starvation dominates edge AI performance. At SPCL, my goal is to investigate high-performance deep learning compilation and memory-hierarchy co-design for edge processors. I aim to research how data-centric intermediate representations, like your DaCe framework, can automatically synthesize latency-optimal fused kernels for low-power edge NPUs, bridging algorithmic scaling and physical silicon realities.
+
+In accordance with SPCL hiring guidelines, I have attached my complete application materials, including my Academic Curriculum Vitae and Unofficial Undergraduate Transcript. My academic references—Dr. Zaharuddeen Haruna (zharuna@abu.edu.ng), Dr. Salisu Aliyu (saliualiyu@abu.edu.ng), and Mrs. Safinatu Zakari (szakari@abu.edu.ng)—are available to provide evaluation letters.
+
+Are you currently accepting new Direct Doctorate students for the upcoming cycle? I would welcome the opportunity for a brief 15-minute call to discuss how my systems engineering background could contribute to SPCL's compiler and hardware co-design projects.
+
+Thank you for your time and consideration.
+
+Sincerely,
 Hadiza Mohammed
+mohammedhardeeza@gmail.com
+
