@@ -34,7 +34,7 @@ Dear Dr. Huszár,
 
 I am writing to express my strong interest in joining your lab for my PhD. I recently graduated with First Class Honours in Computer Science from Ahmadu Bello University (CGPA 4.53/5.00). My engineering background focuses on building ML systems for unpredictable environments, work which recently won 1st Place globally at the Huawei ICT Innovation Competition Finals (2025, China).
 
-For that competition, I built CropDiseaseDetector, an agricultural vision model deployed offline on an Orange Pi AIpro. However, in deploying this toward real smallholder farmers, I recognized a critical gap: I lack a rigorous way to measure if model accuracy holds under extreme real-world distribution shifts—such as different camera lenses in the field or varying lighting conditions.
+For that competition, I built CropDiseaseDetector, an agricultural vision model deployed offline on an Orange Pi AIpro. However, in deploying this toward real smallholder farmers, I recognized a critical gap: I lack a rigorous way to measure if model accuracy holds under extreme real-world distribution shifts-such as different camera lenses in the field or varying lighting conditions.
 
 I have been following your work on Out-of-Distribution (OOD) generalization. I found your paper, "Rule Extrapolation in Language Models," particularly compelling in how it rigorously tests rule extrapolation when models encounter data that violates training distributions.
 

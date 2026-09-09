@@ -1,4 +1,4 @@
-# University of Oxford — DPhil Outreach & Professor Tracker
+# University of Oxford - DPhil Outreach & Professor Tracker
 
 **Institution:** University of Oxford  
 **Department:** Department of Computer Science / Department of Engineering Science  

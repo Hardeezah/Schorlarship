@@ -1,4 +1,4 @@
-# ETH Zurich — Direct Doctorate Outreach & Professor Tracker
+# ETH Zurich - Direct Doctorate Outreach & Professor Tracker
 
 **Institution:** ETH Zurich  
 **Department:** Department of Computer Science (D-INFK)  

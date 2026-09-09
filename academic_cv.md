@@ -65,7 +65,7 @@ Efficient Deep Learning Systems | TinyML & Edge Intelligence | Hardware-Software
 
 ### FLAGSHIP SYSTEMS & RESEARCH PROJECTS
 
-**AgroGuardian / CropDiseaseDetector — Autonomous Multi-Modal Edge Intelligence Platform** (2024–2026)  
+**AgroGuardian / CropDiseaseDetector - Autonomous Multi-Modal Edge Intelligence Platform** (2024–2026)  
 *Team Lead & Systems Architect | Supervised by Dr. Z. Haruna and Mrs. S. Zakari*
 * Engineered an end-to-end autonomous edge AI diagnostic device deployed on an Orange Pi AIpro 20T powered by a Huawei Ascend 310B NPU running OpenEuler OS.
 * Trained a 46-class MobileNetV2 vision backbone across ten agricultural crops using SMOTE to correct extreme class imbalances; achieved 98.2% accuracy on held-out evaluation datasets.
@@ -74,13 +74,13 @@ Efficient Deep Learning Systems | TinyML & Edge Intelligence | Hardware-Software
 * Resolved critical edge systems bottlenecks: managed memory access patterns and zero-copy buffers in the Ascend CANN toolchain, avoiding thermal throttling and sustaining sub-watt power performance.
 * Designed an offline-first data synchronization engine using SQLite with write-ahead logging (WAL) that automatically reconciles with PostgreSQL upon detecting network handshakes.
 
-**DocDrift — Static Analysis & Documentation Drift Verification System** (2025)  
+**DocDrift - Static Analysis & Documentation Drift Verification System** (2025)  
 *Independent Systems Project*
 * Developed an automated code-analysis agent utilizing LangGraph to identify semantic divergence between evolving TypeScript/Python codebases and documentation claims.
 * Constructed a precision-gated evaluation pipeline combining abstract syntax tree (AST) traversal with local dense embedding search via Ollama, ensuring zero telemetry leakage.
 * Packaged as an open-source CLI and GitHub Action, enabling continuous semantic testing within automated CI/CD pipelines.
 
-**Omni-Agent — Multi-Agent Hybrid Retrieval-Augmented System** (2025)  
+**Omni-Agent - Multi-Agent Hybrid Retrieval-Augmented System** (2025)  
 *Independent Research Project*
 * Architected a multi-agent financial document retrieval engine deploying specialized Researcher and Critic agents over dense SEC filing corpora.
 * Built a hybrid lexical-dense retrieval pipeline fusing BM25 scores with cross-encoder re-ranking to maximize mean reciprocal rank (MRR).
@@ -103,9 +103,9 @@ Efficient Deep Learning Systems | TinyML & Edge Intelligence | Hardware-Software
 
 ### CONFERENCES & INVITED PRESENTATIONS
 
-* **UNITAR Forum on Japan–Africa Public-Private Partnership (TICAD9)** — Presented Koda AI Trade Infrastructure, Tokyo/Virtual (2025).
-* **VI International Scientific & Practical Conference**, Kyiv National University of Technologies and Design — Presented Edge AI Deployment in Emerging Agriculture (Apr 2025).
-* **Huawei Global ICT Leadership Summit** — Invited Delegate representing Nigeria, Shenzhen, China (Nov 2024).
+* **UNITAR Forum on Japan–Africa Public-Private Partnership (TICAD9)** - Presented Koda AI Trade Infrastructure, Tokyo/Virtual (2025).
+* **VI International Scientific & Practical Conference**, Kyiv National University of Technologies and Design - Presented Edge AI Deployment in Emerging Agriculture (Apr 2025).
+* **Huawei Global ICT Leadership Summit** - Invited Delegate representing Nigeria, Shenzhen, China (Nov 2024).
 
 ---
 

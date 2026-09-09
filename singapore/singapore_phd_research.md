@@ -1,6 +1,6 @@
 # Singapore PhD in Computer Science: NTU & NUS Direct Entry
 
-Singapore is a global powerhouse for AI research. Its two flagship universities—**National University of Singapore (NUS)** and **Nanyang Technological University (NTU)**—both rank in the global top 15 for Computer Science. Their PhD application processes, requirements, and funding systems are so deeply intertwined that it makes sense to tackle them together.
+Singapore is a global powerhouse for AI research. Its two flagship universities-**National University of Singapore (NUS)** and **Nanyang Technological University (NTU)**-both rank in the global top 15 for Computer Science. Their PhD application processes, requirements, and funding systems are so deeply intertwined that it makes sense to tackle them together.
 
 ## 🎓 Academic Requirements (Direct Entry)
 

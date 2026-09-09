@@ -1,4 +1,4 @@
-# University of Tokyo (UTokyo) — Upcoming Admissions & MEXT Events
+# University of Tokyo (UTokyo) - Upcoming Admissions & MEXT Events
 
 ## 📅 Key Deadlines (MEXT University Recommendation 2027)
 

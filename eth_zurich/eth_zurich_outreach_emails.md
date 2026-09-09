@@ -1,6 +1,6 @@
 # ETH Zurich PhD Outreach Emails
 
-## 1. Email to Prof. Ana Klimovic [SENT — September 6, 2026]
+## 1. Email to Prof. Ana Klimovic [SENT - September 6, 2026]
 **Focus:** Computer Systems for AI, Efficient ML Infrastructure, and Resource-Constrained Environments  
 **Recipient:** `aklimovic@ethz.ch`  
 **Status:** 📤 Sent September 6, 2026  
@@ -24,7 +24,7 @@ Hadiza Mohammed
 
 ---
 
-## 2. Email to Prof. Torsten Hoefler (SPCL) [SENT — September 9, 2026]
+## 2. Email to Prof. Torsten Hoefler (SPCL) [SENT - September 9, 2026]
 **Focus:** High-Performance Computing, Efficient Deep Learning Compilation, Memory Co-design  
 **Recipient:** `spcl-hiring@spcl.inf.ethz.ch`  
 **Status:** 📤 Sent September 9, 2026  
@@ -39,7 +39,7 @@ I graduated with First Class Honours in Computer Science from Ahmadu Bello Unive
 
 This experience showed me that memory bandwidth starvation dominates edge AI performance. At SPCL, my goal is to investigate high-performance deep learning compilation and memory-hierarchy co-design for edge processors. I aim to research how data-centric intermediate representations, like your DaCe framework, can automatically synthesize latency-optimal fused kernels for low-power edge NPUs, bridging algorithmic scaling and physical silicon realities.
 
-In accordance with SPCL hiring guidelines, I have attached my complete application materials, including my Academic Curriculum Vitae and Unofficial Undergraduate Transcript. My academic references—Dr. Zaharuddeen Haruna (zharuna@abu.edu.ng), Dr. Salisu Aliyu (saliualiyu@abu.edu.ng), and Mrs. Safinatu Zakari (szakari@abu.edu.ng)—are available to provide evaluation letters.
+In accordance with SPCL hiring guidelines, I have attached my complete application materials, including my Academic Curriculum Vitae and Unofficial Undergraduate Transcript. My academic references-Dr. Zaharuddeen Haruna (zharuna@abu.edu.ng), Dr. Salisu Aliyu (saliualiyu@abu.edu.ng), and Mrs. Safinatu Zakari (szakari@abu.edu.ng)-are available to provide evaluation letters.
 
 Are you currently accepting new Direct Doctorate students for the upcoming cycle? I would welcome the opportunity for a brief 15-minute call to discuss how my systems engineering background could contribute to SPCL's compiler and hardware co-design projects.
 

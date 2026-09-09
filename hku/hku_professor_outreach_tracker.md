@@ -1,4 +1,4 @@
-# University of Hong Kong (HKU) — PhD Outreach & Professor Tracker
+# University of Hong Kong (HKU) - PhD Outreach & Professor Tracker
 
 **Institution:** The University of Hong Kong (HKU)  
 **Departments:** Department of Computer Science / Department of Electrical and Electronic Engineering  

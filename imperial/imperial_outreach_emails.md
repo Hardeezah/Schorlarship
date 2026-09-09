@@ -1,6 +1,6 @@
 # Imperial College London PhD Outreach Emails
 
-## 1. Email to Prof. Julie A. McCann [SENT — September 8, 2026]
+## 1. Email to Prof. Julie A. McCann [SENT - September 8, 2026]
 **Focus:** Real-Time Edge Vision, Low-Power Sensor Systems, Agricultural Edge Computing  
 **Recipient:** `j.mccann@imperial.ac.uk`  
 **Status:** 📤 Sent September 8, 2026  
@@ -35,7 +35,7 @@ mohammedhardeeza@gmail.com
 
 ---
 
-## 2. Email to Prof. Christos-Savvas Bouganis [SENT — September 8, 2026]
+## 2. Email to Prof. Christos-Savvas Bouganis [SENT - September 8, 2026]
 **Focus:** Hardware-Aware ML Acceleration, Weights Streaming, Pipelined NPU/FPGA Accelerators  
 **Recipient:** `christos-savvas.bouganis@imperial.ac.uk`  
 **Status:** 📤 Sent September 8, 2026  
@@ -70,7 +70,7 @@ mohammedhardeeza@gmail.com
 
 ---
 
-## 3. Email to Prof. Geoffrey Ye Li [DRAFT — Ready to Send]
+## 3. Email to Prof. Geoffrey Ye Li [DRAFT - Ready to Send]
 **Focus:** Decentralized Federated Learning and Wireless Connectivity Constraints  
 **Recipient:** `geoffrey.li@imperial.ac.uk`  
 

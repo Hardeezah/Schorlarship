@@ -1,6 +1,6 @@
 # University of Hong Kong (HKU) PhD Outreach Emails
 
-## 1. Email to Prof. Chuan Wu [SENT — September 9, 2026]
+## 1. Email to Prof. Chuan Wu [SENT - September 9, 2026]
 **Focus:** Distributed ML Systems, Edge-Cloud Co-design, Resource-Constrained Inference  
 **Recipient:** `cwu@cs.hku.hk`  
 **Status:** 📤 Sent September 9, 2026  
@@ -33,7 +33,7 @@ mohammedhardeeza@gmail.com
 
 ---
 
-## 2. Email to Dr. Edith C. H. Ngai [SENT — September 9, 2026]
+## 2. Email to Dr. Edith C. H. Ngai [SENT - September 9, 2026]
 **Focus:** Smart IoT Systems, Edge General Intelligence, Energy-Efficient Embedded Computing  
 **Recipient:** `chngai@eee.hku.hk`  
 **Status:** 📤 Sent September 9, 2026  

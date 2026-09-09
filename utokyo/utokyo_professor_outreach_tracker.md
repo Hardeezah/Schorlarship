@@ -1,4 +1,4 @@
-# University of Tokyo (UTokyo) — MEXT Outreach & Professor Tracker
+# University of Tokyo (UTokyo) - MEXT Outreach & Professor Tracker
 
 **Institution:** The University of Tokyo (UTokyo)  
 **Graduate School:** Graduate School of Information Science and Technology (IST)  
@@ -67,7 +67,7 @@
 ---
 
 ### ✅ AGREED / ACCEPTED
-*(None yet — tracking active leads)*
+*(None yet - tracking active leads)*
 
 ---
 

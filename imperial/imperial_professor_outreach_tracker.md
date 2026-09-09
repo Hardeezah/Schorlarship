@@ -1,4 +1,4 @@
-# Imperial College London — PhD Outreach & Professor Tracker
+# Imperial College London - PhD Outreach & Professor Tracker
 
 **Institution:** Imperial College London (ICL)  
 **Department:** Department of Computing / Department of Electrical and Electronic Engineering  

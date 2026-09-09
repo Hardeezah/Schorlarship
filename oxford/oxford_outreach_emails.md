@@ -1,6 +1,6 @@
 # University of Oxford DPhil Outreach Emails
 
-## 1. Email to Prof. Niki Trigoni [DRAFT — Ready to Send]
+## 1. Email to Prof. Niki Trigoni [DRAFT - Ready to Send]
 **Role:** Director, EPSRC AIMS CDT & Head of Cyber Physical Systems Group  
 **Recipient:** `niki.trigoni@cs.ox.ac.uk`  
 
@@ -32,7 +32,7 @@ mohammedhardeeza@gmail.com
 
 ---
 
-## 2. Email to Prof. Andrew Markham [DRAFT — Ready to Send]
+## 2. Email to Prof. Andrew Markham [DRAFT - Ready to Send]
 **Role:** Professor of Computer Science, Cyber Physical Systems Group  
 **Recipient:** `andrew.markham@cs.ox.ac.uk`  
 

@@ -12,7 +12,7 @@
 
 I am writing to express my strong motivation to pursue the Direct Doctorate in Computer Science at ETH Zurich. I recently graduated with First Class Honours in Computer Science from Ahmadu Bello University, Nigeria, achieving a CGPA of 4.53/5.00 (top 1% of my cohort). During my undergraduate studies, I developed a profound interest in machine learning systems, specifically focusing on how complex AI models can be engineered to operate reliably in highly unpredictable and resource-constrained real-world environments. 
 
-My academic foundation in mathematics and algorithmic design was nationally recognized when I won the prestigious MATLAB Award. However, it is my applied engineering experience—bridging theoretical machine learning with severe physical constraints—that drives my ambition to conduct doctoral research at ETH Zurich.
+My academic foundation in mathematics and algorithmic design was nationally recognized when I won the prestigious MATLAB Award. However, it is my applied engineering experience-bridging theoretical machine learning with severe physical constraints-that drives my ambition to conduct doctoral research at ETH Zurich.
 
 ## Research Experience and the Huawei ICT Innovation Global Win
 
@@ -24,7 +24,7 @@ While the software model proved robust in controlled tests, deploying it exposed
 1. **Systems Efficiency:** Continuous visual inference rapidly exhausts the limited computational resources and energy of low-cost edge devices deployed off-grid. 
 2. **Adaptive Reliability:** The model's reliability degrades when encountering unmeasured distribution shifts (e.g., varying lighting conditions or novel crop anomalies) common in the wild.
 
-In addition to my academic research, I am the founding engineer of KodaTrade, a production-level financial platform. Building KodaTrade from the ground up gave me rigorous experience in system architecture, distributed systems, and maintaining highly scalable, production-grade software—skills that perfectly complement the engineering demands of advanced systems research.
+In addition to my academic research, I am the founding engineer of KodaTrade, a production-level financial platform. Building KodaTrade from the ground up gave me rigorous experience in system architecture, distributed systems, and maintaining highly scalable, production-grade software-skills that perfectly complement the engineering demands of advanced systems research.
 
 ## Proposed Research Direction at ETH Zurich
 
