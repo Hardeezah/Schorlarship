@@ -1,7 +1,8 @@
 # ETH Zurich PhD Outreach Emails
 
-## 1. Email to Prof. Ana Klimovic
-**Focus:** Computer Systems for AI, Efficient ML Infrastructure, and Resource-Constrained Environments
+## 1. Email to Prof. Ana Klimovic [DRAFT — Ready to Send]
+**Focus:** Computer Systems for AI, Efficient ML Infrastructure, and Resource-Constrained Environments  
+**Recipient:** `aklimovic@ethz.ch`  
 
 **Subject:** Prospective Direct Doctorate Student (2027) – Systems for ML Optimization in Constrained Agricultural Vision
 
@@ -17,12 +18,16 @@ Given my practical experience deploying offline models and my strong background 
 
 Are you accepting new students for the upcoming cycle, and would investigating systems for ML in extreme resource-constrained environments align with your current research focus?
 
+Thank you for your time,  
+Hadiza Mohammed
+
 ---
 
-## 2. Email to Prof. Torsten Hoefler (SPCL)
-**Focus:** High-Performance Computing, Efficient Deep Learning Compilation, Memory Co-design
+## 2. Email to Prof. Torsten Hoefler (SPCL) [SENT — September 9, 2026]
+**Focus:** High-Performance Computing, Efficient Deep Learning Compilation, Memory Co-design  
+**Recipient:** `spcl-hiring@spcl.inf.ethz.ch`  
+**Status:** 📤 Sent September 9, 2026  
 
-**To:** spcl-hiring@spcl.inf.ethz.ch
 **Subject:** [JOB@SPCL] Direct Doctorate Applicant (2027) - Efficient ML on Resource-Constrained ARM Architectures
 
 Dear Prof. Hoefler and the SPCL Hiring Committee,
@@ -40,6 +45,7 @@ Are you currently accepting new Direct Doctorate students for the upcoming cycle
 Thank you for your time and consideration.
 
 Sincerely,
-Hadiza Mohammed
-mohammedhardeeza@gmail.com
 
+Hadiza Mohammed  
+mohammedhardeeza@gmail.com  
+*(Attachments: Academic_CV.pdf, BSc_Transcript.pdf)*
