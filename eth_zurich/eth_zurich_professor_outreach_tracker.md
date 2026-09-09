@@ -34,14 +34,14 @@
 * **Lab:** Efficient Architectures Lab
 * **Research Focus:** Computer Systems for AI, Efficient ML Infrastructure, Energy-Efficient Storage & Compute
 * **Email:** `aklimovic@ethz.ch`
-* **Status:** 📤 **CONTACTED** (Sent: September 9, 2026)
+* **Status:** 📤 **CONTACTED** (Sent: September 6, 2026)
 * **Proposal Focus:** Optimizing computer vision inference systems for ultra-low-power embedded environments in off-grid agricultural settings.
 
 ---
 
 ## 📅 Key Deadlines & Timeline (ETH Entry 2027)
 
-1. **Pre-Application Outreach:** 📤 Completed for Prof. Torsten Hoefler (SPCL) & Prof. Ana Klimovic on Sept 9, 2026
+1. **Pre-Application Outreach:** 📤 Completed for Prof. Ana Klimovic (Sept 6) & Prof. Torsten Hoefler (Sept 9)
 2. **Official ETH Portal Application Opens:** November 1, 2026
 3. **Official ETH Portal Application Closes:** **November 30, 2026 (Strict Deadline)**
    * *Portal requirement:* Must nominate #1 SPCL (Prof. Hoefler) and #2 Efficient Architectures (Prof. Klimovic).
