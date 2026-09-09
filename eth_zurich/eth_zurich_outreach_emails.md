@@ -1,8 +1,9 @@
 # ETH Zurich PhD Outreach Emails
 
-## 1. Email to Prof. Ana Klimovic [DRAFT — Ready to Send]
+## 1. Email to Prof. Ana Klimovic [SENT — September 9, 2026]
 **Focus:** Computer Systems for AI, Efficient ML Infrastructure, and Resource-Constrained Environments  
 **Recipient:** `aklimovic@ethz.ch`  
+**Status:** 📤 Sent September 9, 2026  
 
 **Subject:** Prospective Direct Doctorate Student (2027) – Systems for ML Optimization in Constrained Agricultural Vision
 

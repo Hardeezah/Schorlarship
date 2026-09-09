@@ -29,23 +29,19 @@
 * **Status:** 📤 **CONTACTED** (Sent: September 9, 2026)
 * **Proposal Focus:** High-performance deep learning compilation and data-centric intermediate representations for synthesizing latency-optimal fused kernels on low-power edge NPUs.
 
----
-
-### 📝 TO CONTACT (Draft Prepared)
-
 #### 2. Prof. Ana Klimovic
 * **Department:** Department of Computer Science (D-INFK)
 * **Lab:** Efficient Architectures Lab
 * **Research Focus:** Computer Systems for AI, Efficient ML Infrastructure, Energy-Efficient Storage & Compute
 * **Email:** `aklimovic@ethz.ch`
-* **Status:** 📝 **TO CONTACT** (Secondary Nominated Research Group for ETH Portal)
+* **Status:** 📤 **CONTACTED** (Sent: September 9, 2026)
 * **Proposal Focus:** Optimizing computer vision inference systems for ultra-low-power embedded environments in off-grid agricultural settings.
 
 ---
 
 ## 📅 Key Deadlines & Timeline (ETH Entry 2027)
 
-1. **Pre-Application Outreach:** 📤 Completed for Prof. Torsten Hoefler (SPCL) on Sept 9, 2026
+1. **Pre-Application Outreach:** 📤 Completed for Prof. Torsten Hoefler (SPCL) & Prof. Ana Klimovic on Sept 9, 2026
 2. **Official ETH Portal Application Opens:** November 1, 2026
 3. **Official ETH Portal Application Closes:** **November 30, 2026 (Strict Deadline)**
    * *Portal requirement:* Must nominate #1 SPCL (Prof. Hoefler) and #2 Efficient Architectures (Prof. Klimovic).
