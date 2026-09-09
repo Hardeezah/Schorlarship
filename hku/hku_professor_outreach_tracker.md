@@ -19,15 +19,14 @@
 
 ---
 
-### 📝 TO CONTACT (Draft Prepared)
+### 📤 CONTACTED (Awaiting Response)
 
 #### 1. Prof. Chuan Wu
 * **Department:** Department of Computer Science
 * **Lab:** Systems & Networking Group
 * **Research Focus:** Distributed ML Systems, GPU/Accelerator Scheduling, Edge-Cloud Co-design, Resource-Constrained Inference
 * **Email:** `cwu@cs.hku.hk`
-* **Status:** 📝 **TO CONTACT**
-* **Contact Guidelines:** Must state explicit CGPA (4.53/5.00) and class rank (Top female graduate, First Class Honours) in CV and email.
+* **Status:** 📤 **CONTACTED** (Sent: September 9, 2026)
 * **Proposal Focus:** Distributed and edge-cloud inference systems optimized for resource-constrained ARM NPUs and heterogeneous edge nodes.
 
 #### 2. Dr. Edith C. H. Ngai
@@ -35,8 +34,12 @@
 * **Lab:** HKU IoT & Smart Systems Lab
 * **Research Focus:** Internet of Things (IoT), Edge General Intelligence, Smart Sensing, Energy-Efficient Embedded Computing
 * **Email:** `chngai@eee.hku.hk`
-* **Status:** 📝 **TO CONTACT**
+* **Status:** 📤 **CONTACTED** (Sent: September 9, 2026)
 * **Proposal Focus:** Energy-efficient edge AI runtimes and low-power sensing pipelines for autonomous agricultural and environmental IoT devices.
+
+---
+
+### 📝 TO CONTACT (Backup Target)
 
 #### 3. Prof. Kaibin Huang
 * **Department:** Department of Electrical & Electronic Engineering
@@ -48,7 +51,7 @@
 ---
 
 ## 📅 Key Deadlines & 2-Step HKPFS Timeline
-1. **Professor Pre-Approval:** September – November 2026
+1. **Professor Pre-Approval Outreach:** 📤 Completed (Prof. Chuan Wu & Dr. Edith Ngai emailed Sept 9, 2026)
 2. **Step 1 (RGC System Initial Application):** Opens Sept 2026 ➔ **Deadline: Dec 1, 2026 (12:00 noon HKT)** to get HKPFS Ref Number.
 3. **Step 2 (HKU Main Application):** Submit full application quoting HKPFS Ref Number ➔ **Deadline: Dec 1, 2026**.
 4. **Interview & Selection:** January – February 2027
