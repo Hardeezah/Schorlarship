@@ -115,3 +115,24 @@ Efficient Deep Learning Systems | TinyML & Edge Intelligence | Hardware-Software
 * **Systems & Programming Languages:** Python, C/C++, TypeScript, JavaScript, SQL, MATLAB, Bash.
 * **Operating Systems & Infrastructure:** Linux / OpenEuler, Embedded NPU Toolchains, Docker, Kubernetes, Git, GitHub Actions.
 * **Databases & Data Systems:** PostgreSQL, pgvector, SQLite (WAL mode), Redis, Supabase, Qdrant.
+
+---
+
+### ACADEMIC REFERENCES
+
+* **Dr. Armand Florentin Donfack Kana**  
+  *Senior Lecturer, Department of Computer Science*, Ahmadu Bello University, Zaria, Nigeria  
+  Emails: `dkana@abu.edu.ng` | `dkana@mit.edu`
+
+* **Dr. Mohammed Abdullahi**  
+  *Senior Lecturer, Department of Computer Science*, Ahmadu Bello University, Zaria, Nigeria  
+  Email: `abdullahilwafu@abu.edu.ng`
+
+* **Dr. Zaharuddeen Haruna**  
+  *Senior Lecturer, Department of Computer Engineering*, Ahmadu Bello University, Zaria, Nigeria  
+  Email: `zharuna@abu.edu.ng`
+
+* **Dr. Salisu Aliyu**  
+  *Senior Lecturer, Department of Computer Science*, Ahmadu Bello University, Zaria, Nigeria  
+  Email: `aliyusalisu@abu.edu.ng`
+
